@@ -2,30 +2,30 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "AWAB" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "Queen Anya" 
-global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.botname = "AWAB TETO" 
+global.websitex = "https://github.com/ateyo2007" // Website to be displayed //
+global.botscript = 'https://github.com/ateto2007' // Script link //
+global.packname = "تم صنعة بواسطة بوت الأسظورة أواب تيتو : 249928117462" // sticker watermark packname //
+global.author = "🥵AWAB TETO" // sticker watermark author //
+actiontitle = '࿙⚜TETO⚜࿚' // text who displays on the top of welcome and left message //
+global.headerText = "BOT by LEGEND AWAB TETO" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
-             global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
-             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
-             global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
-             global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.ownernumber = ['249928117462']   // Owner number //
+             global.vcardowner = ['249928117462']   // vcard owner number //
+             global.ownername = "المطور أواب تيتو"   // Owner name //
+             global.ytname = "YT: الأسطورة أواب تيتو"   // Yt chanel name //
+             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : ateto"   // Github or insta name //
+             global.location = "sudan, Khartoum"   // Location //
+             global.owner = ['249928117461','249928117462','249928117462']
+             global.ownertag = '249928117462'  // Tag number //
+             global.linkz = "https://wa.me/+249918117462"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['249928117462']  // premium numbers //             
+             global.waterMark = "awab teto" // Your own watermark //
 
 global.prefa = ['','-']
 
@@ -35,8 +35,8 @@ name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
 name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = teto`
+footer2 = `teto`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
